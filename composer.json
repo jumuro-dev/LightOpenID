@@ -24,6 +24,6 @@
 		"php": ">=5.6"
 	},
 	"autoload": {
-		"classmap": ["openid.php"]
+		"classmap": ["LightOpenID.php"]
 	}
 }
